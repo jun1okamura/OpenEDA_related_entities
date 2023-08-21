@@ -4,8 +4,9 @@
 
 ## [KLayout](https://www.klayout.de/)
 Layout entry + DRC + LVS
+- Keyman: [Matthias Köfferlein](https://www.linkedin.com/in/matthias-koefferlein-9a439415/)
 - E-Mail: contact@klayout.de 
-- GitHub: https://github.com/klayoutmatthias/klayout 
+- GitHub: https://github.com/klayout/klayout
 
 ## [OpenROAD](https://precisioninno.com/)
 RTL-to-GDS Toolchain
