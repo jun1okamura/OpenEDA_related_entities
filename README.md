@@ -38,6 +38,7 @@ RISC-V formal verification & consulting
 
 ## [VeriKwest](https://www.verikwest.com/index.html)
 Helping customers build custom solutions to tackle complex SOC integration and verification.
+- Keyman: [Champaka Ramachandran](https://www.linkedin.com/in/champaka-ramachandran-983894/)
 - E-Mail: info@verikwest.com
 - Github:
 
