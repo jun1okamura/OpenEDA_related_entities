@@ -18,6 +18,11 @@ RTL-to-GDS Toolchain
 RTL-to-GDS Toolchain for OpenMPW (by Google)
 - Keyman: [Tim Ansell](https://www.linkedin.com/in/mithro/)
 - GitHub: https://github.com/The-OpenROAD-Project/OpenLane
+
+## [F4PGA](https://f4pga.org/)
+RTL-to-FPGA bit file Toolchain
+- Keyman: [Tomasz Michalak](https://github.com/tmichalak)
+- GitHub: https://github.com/chipsalliance/f4pga
   
 ## [Yosys](https://www.symbioticeda.com/)
 RTL Compiler design support
